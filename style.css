@@ -1,0 +1,65 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+.main{
+    width: 25%;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    background-color:#AEEDD8;
+    margin: auto;
+    flex-direction: column;
+
+}
+.heading{
+    font-family:sans-serif;
+}
+.input{
+    background-color:#cfefe5;
+    padding:5px;
+    margin: 15px;
+    width: auto;
+    border: 0.1px solid #a6dddf;
+    font-family:'Helvetica';
+    border-radius:5%;
+}
+#rea{
+    height:50px
+}
+.submsg{
+    width: 300px;
+    height: 30px;
+    color: #e0e7e0;
+    background-color: #1a7f1a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+   width: 200px;
+   height: 40px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.bt{
+    background-color: #d0f7ea;
+    height: 30px;
+    width: 100px;
+    font-family: 'Helvetica';
+    border: 0.1px solid #a7c9be;
+    border-radius: 10%;
+    cursor: pointer;
+}
+.back{
+    background-image: url(vintage-pink-telephone-composition_23-2148913957.jpg);
+    background-size:cover;
+    height: 650px;
+}
+.in{
+    border: 0.1px solid #AEEDD8;
+    border-radius: 10%;
+    background-color:#eaefee ;
+}
